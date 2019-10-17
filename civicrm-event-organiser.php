@@ -2,10 +2,10 @@
 --------------------------------------------------------------------------------
 Plugin Name: CiviCRM Event Organiser
 Description: Sync Event Organiser Events with CiviCRM Events.
-Version: 0.4.4
+Version: 0.4.4-agileware-1
 Author: Christian Wach
 Author URI: http://haystack.co.uk
-Plugin URI: https://github.com/christianwach/civicrm-event-organiser
+Plugin URI: https://github.com/agileware/civicrm-event-organiser
 Text Domain: civicrm-event-organiser
 Domain Path: /languages
 Network: false
